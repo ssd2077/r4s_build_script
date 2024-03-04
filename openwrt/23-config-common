@@ -185,6 +185,7 @@ CONFIG_PACKAGE_kmod-usb-net-rtl8152-vendor=y
 
 ### Kernel Modules - USB WiFi Adapter
 CONFIG_PACKAGE_kmod-mt7921u=y
+CONFIG_PACKAGE_kmod-rtl88x2bu=y
 
 ### Utilities
 CONFIG_PACKAGE_bash=y
